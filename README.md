@@ -1,2 +1,1 @@
-# voxel-engine-python
-Voxel Engine using Python
+# Voxel Engine using Python
